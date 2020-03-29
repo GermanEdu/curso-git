@@ -9,11 +9,11 @@ namespace Course
         {
 
 
-            string Texto = ("Ola mundo"); 
-          
+            string Texto = ("Ola mundo");
+            
 
             Console.WriteLine(Texto);
-
+            Console.WriteLine("Bom dia a todos");
 
 
 
