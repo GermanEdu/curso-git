@@ -14,7 +14,7 @@ namespace Course
 
             Console.WriteLine(Texto);
             Console.WriteLine("Bom dia a todos");
-            Console.WriteLine("Boa noite");
+            Console.WriteLine("Tenha um Bom dia! 27/04");
 
 
 
