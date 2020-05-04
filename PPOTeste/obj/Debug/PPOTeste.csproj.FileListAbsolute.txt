@@ -5,3 +5,10 @@ C:\Users\Eduardo\source\repos\PPOTeste\PPOTeste\bin\Debug\PPOTeste.pdb
 C:\Users\Eduardo\source\repos\PPOTeste\PPOTeste\obj\Debug\PPOTeste.exe
 C:\Users\Eduardo\source\repos\PPOTeste\PPOTeste\obj\Debug\PPOTeste.pdb
 C:\Users\Eduardo\source\repos\PPOTeste\PPOTeste\obj\Debug\PPOTeste.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\curso-git\PPOTeste\bin\Debug\PPOTeste.exe.config
+C:\Users\Eduardo\source\repos\curso-git\PPOTeste\bin\Debug\PPOTeste.exe
+C:\Users\Eduardo\source\repos\curso-git\PPOTeste\bin\Debug\PPOTeste.pdb
+C:\Users\Eduardo\source\repos\curso-git\PPOTeste\obj\Debug\PPOTeste.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\curso-git\PPOTeste\obj\Debug\PPOTeste.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\curso-git\PPOTeste\obj\Debug\PPOTeste.exe
+C:\Users\Eduardo\source\repos\curso-git\PPOTeste\obj\Debug\PPOTeste.pdb
